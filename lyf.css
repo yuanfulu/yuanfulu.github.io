@@ -1,8 +1,9 @@
 body {
 	color: #000000;
 	background-color: #FFFFFF;
-	margin: 15px 50px 15px 50px;
-	max-width: 1300;
+	/*margin: 15px 50px 15px 50px;*/
+	margin: auto;
+	max-width: 1000;
 	text-align: justify;
 	font-family: "Palatino Linotype", "Microsoft yahei", "Book Antiqua", Palatino, serif;
 	line-height: 1.25; 
